@@ -5,7 +5,6 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![scapy](https://img.shields.io/badge/pip-scapy-green.svg)](https://scapy.readthedocs.io/)
 [![Platform-Linux/Kali](https://img.shields.io/badge/Platform-Linux%2F%20Kali-black.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > ⚠️ **For licensed security professionals only.** Use exclusively on networks you own or are explicitly authorized to test.
 
@@ -121,7 +120,7 @@ sudo python3 main.py
   ● docs.python.org                  [DNS]   tot 2
 
 █ ASSET/SUPPORT noise (CDN/API echo): 14 suppressed
-Capture → mitm_192.168.1.34_1690000000.pcap
+Capture → m_192.168.1.34_1690000000.pcap
 ```
 
 ---
@@ -155,13 +154,3 @@ This is an **offensive security research tool**. By using it, you confirm that:
 3. Unauthorized network interception may be illegal in your jurisdiction — you are responsible for compliance (e.g., CFAA, EU GDPR §81, national computer-misuse legislation).
 
 **Recommended environment:** isolated lab/VLAN, CTF ranges, or credentialed engagements.
-
----
-
-## 📝 License
-
-Released under the [MIT License](LICENSE).
-
----
-
-Let me know if you want a corresponding `LICENSE`, a `.gitignore`, or a short `requirements.txt` to round out the repo.
